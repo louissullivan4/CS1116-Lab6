@@ -1,0 +1,24 @@
+body{
+  float: left;
+  width: 70%;
+  padding: 2.5%;
+}
+
+aside {
+    text-align: center;
+    margin-left: 70%;
+}
+
+
+canvas {
+    background: linear-gradient(#e66465, #9198e5);
+    display: block;
+    border: 1em solid purple;
+}
+
+div{
+  text-align: center;
+  font-size: 3em;
+  font-style: Arial;
+
+}
